@@ -1,7 +1,7 @@
 # sh-comp-challenge-1
 
 I created this project, "Static-Comp-1" for Turing School of Software & Design in module 1. I was not provided with any assets, nor native files. I sourced assets on my own per the creative license guidelines provided: Copy, Images, Icons, and Color palette.
-The layout for the page had to be exact. The page is responsive down to mobile view of 320px. Additonally, I created hover states for the photos on the top of each card and an icon on the title tab. The creative ,license motivated me by allowing me to share something I'm passionate about - animals.
+The layout for the page had to be exact. The page is responsive down to mobile view of 320px. Additonally, I created hover states for the photos on the top of each card and an icon on the title tab. The creative license motivated me by allowing me to share something I'm passionate about - animals.
 The project was created with HTML and CSS - specifically FlexBox. The site works across Firefox, Safari, Chrome as I used a normalize file in CSS.
 
 
