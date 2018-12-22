@@ -14,7 +14,7 @@ The project was created with HTML and CSS - specifically FlexBox. The site works
 **My version:**
 
 
-![sc1](https://user-images.githubusercontent.com/40863560/49879052-5b3f9880-fde6-11e8-8af0-56ff65d2b450.png)
+![dogs-full](https://user-images.githubusercontent.com/40863560/50376482-6bb3f800-05ca-11e9-83e3-f9bdce4adab4.png)
 
 **My version (mobile view 320px):**
 
